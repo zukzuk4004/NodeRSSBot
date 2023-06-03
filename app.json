@@ -23,8 +23,7 @@
             "quantity": 0
         },
         "worker": {
-            "quantity": 1,
-            "size": "free"
+            "quantity": 0
         }
     },
     "env": {
